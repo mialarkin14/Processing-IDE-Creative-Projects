@@ -1,6 +1,6 @@
 A collection of creative projects done using the Processing IDE
 
-Language: Java ☕
+Language: Processing / Java ☕ 
 
 Includes:
 
